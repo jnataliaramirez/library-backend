@@ -52,7 +52,6 @@ Clonar o descargar repo y ejecutar en terminarl los siguientes comandos para ins
 - express
 - API Rest
 - SQLite
-- Heroku
 
 ## Contactame ☎️
 
