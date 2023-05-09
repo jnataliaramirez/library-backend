@@ -1,4 +1,4 @@
-# Mi Libreria 📚
+# Mi Libreria (Backend) 📚
 
 Esta app web permite consultar los libros registrados, ver un listado rápido de los libros y entrar al detalle viendo su autor y su código ISBN. De igual manera se podrá añadir nuevos autores y tantos libros como se desee.
 
