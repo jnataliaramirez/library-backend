@@ -21,15 +21,6 @@ server.listen(serverPort, () => {
 const staticServerPath = './public';
 server.use(express.static(staticServerPath));
 
-//Ejemplo
-server.get('/users', (req, res) => {
-  const response = {
-    users: [{name: 'Nati'}, {name: 'Oscar'}],
-  };
-  res.json(response);
-});
-
-
 // init and config data base
 const db = new Database('./src/data_base.db', {});
 
